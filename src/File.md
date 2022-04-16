@@ -25,3 +25,6 @@
 + 11 commit(Merge)
   + git add .
   + git commit 
++ 12 commit
+  + git add .
+  + git commit 
