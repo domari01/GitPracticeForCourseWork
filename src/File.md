@@ -6,3 +6,6 @@
   + git checkout bugfix
   + git add .
   + git commit
++ 4 commit
+  + git add .
+  + git commit
