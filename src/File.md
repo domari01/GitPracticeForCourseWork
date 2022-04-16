@@ -22,3 +22,6 @@
   + git checkout main
   + git add .
   + git merge
++ 10 commit
+  + git add .
+  + git commit
