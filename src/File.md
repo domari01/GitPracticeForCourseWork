@@ -12,3 +12,16 @@
 + 6 Commit
   + git add .
   + git commit
++ 7 commit
+  + git checkout bug-fix-experimental
+  + git add .
+  + git commit
++ 8 commit
+  + git add .
+  + git commit
++ 9 commit
+  + git add .
+  + git commit -m
++ 11 commit(Merge)
+  + git add .
+  + git commit 
