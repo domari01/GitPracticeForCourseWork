@@ -9,3 +9,6 @@
 + 4 commit
   + git add .
   + git commit
++ 6 Commit
+  + git add .
+  + git commit
