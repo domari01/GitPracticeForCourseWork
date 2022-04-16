@@ -13,3 +13,9 @@
   + git checkout bug-fix-experimental
   + git add .
   + git commit
++ 8 commit
+  + git add .
+  + git commit
++ 9 commit
+  + git add .
+  + git commit
