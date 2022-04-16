@@ -18,4 +18,4 @@
   + git commit
 + 9 commit
   + git add .
-  + git commit
+  + git commit -m
