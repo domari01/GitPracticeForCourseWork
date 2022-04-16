@@ -7,3 +7,7 @@
   + Created a branch for bugfix
   + git add .
   + git commit
+
++ 2 Commit
+  + git add .
+  + git commit
